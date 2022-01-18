@@ -8,3 +8,5 @@ CS 2400, Section 110
 
 git commit -m "Trying to make changes to local file from Git"
 git push
+
+Done
